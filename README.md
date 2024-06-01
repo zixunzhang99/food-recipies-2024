@@ -1,1 +1,1 @@
-# food-recipies-2024
+# Food Recipes
